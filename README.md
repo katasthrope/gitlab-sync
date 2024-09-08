@@ -1,5 +1,5 @@
-# gitlab-sync
-a simple shell script to clone and pull all your projects in gitlab group and subgroup
+# Gitlab-Sync
+A simple shell script to clone and pull all your projects in gitlab group and subgroup
 
 make sure to have jq installed
 
